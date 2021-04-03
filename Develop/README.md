@@ -1,7 +1,7 @@
-Code for Scheduler
+README.md 
 
-Github URL:
+github url:
 https://github.com/DLP713/Scheduler
 
-Application URL: 
+application url: 
 https://dlp713.github.io/Scheduler/
